@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/*------共通部分-----*/
+html {
+    /*フォントサイズをユーザ指定に合わせる*/
+    font-size: 100%;
+}
+
+body {
+    /*フォント*/
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+    /*行の高さ*/
+    line-height: 1.7;
+    /*色*/
+    color: #432;
+}
+
+a {
+    /*aタグの装飾をリセット*/
+    text-decoration: none;
+}
+
+img {
+    /*画像サイズに制限をかける*/
+    max-width: 100%;
+}
