@@ -12,7 +12,8 @@ body {
     /*行の高さ*/
     line-height: 1.7;
     /*色*/
-    color: #432;
+    color: white;
+    background-color: black;
 }
 
 a {
